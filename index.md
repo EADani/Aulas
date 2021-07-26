@@ -2,7 +2,7 @@
 
 ### Introdução ao Overleaf
 
-Meu clássico aulão de 1h20min pra te ajudar a escrever documentos padronizados: principalmente trabalhos acadêmicos e o temido projeto final! A ementa completa pode ser vista [aqui](https://tinyurl.com/37hsruc6), agora é só escolher qual turma encaixa melhor no seu horário!
+Aulão de 1h20min pra te ajudar a escrever documentos padronizados, principalmente trabalhos acadêmicos e o temido projeto final! A ementa completa pode ser vista [aqui](https://tinyurl.com/37hsruc6), agora é só escolher qual turma encaixa melhor no seu horário!
 
 [Inscrição Turma 1](https://tinyurl.com/cpvm68uw): 04/08, quarta-feira, de 18h às 19h20
 
