@@ -1,6 +1,3 @@
-## Turmas Abertas
-
-
 ---------------------
 
 ### Introdução ao Overleaf
