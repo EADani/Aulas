@@ -4,7 +4,7 @@
 
 ---------------------
 
-### Introdução ao Overleaf
+### **Introdução ao Overleaf**
 
 Aulão clássico de 1h20min pra te ajudar a escrever documentos padronizados, principalmente trabalhos acadêmicos e o temido projeto final.
 
